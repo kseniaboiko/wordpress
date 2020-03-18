@@ -1,0 +1,105 @@
+body{
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    color:black;
+    
+}
+
+
+
+.banner{
+ background-image: url('http://localhost/wordpress/wp-content/themes/start-theme/images/banners/ob823n0.jpg');
+ background-repeat: no-repeat;
+ background-size:cover;
+ display: block;
+ background-position: center center;
+ 
+ 
+}
+
+.text-banner{
+    background: rgba(254, 193, 7, 0.85);
+    margin: 20px 0px;
+    box-shadow: 0px 0px 3px #151515;
+    padding: 20px;
+    color: transparent;
+    clear: both;
+    font-size: 1.1em;
+    display: block;
+    font-family: Open Sans, sans-serif;
+    
+}
+
+.text-banner p{
+    line-height: 26px;
+}
+
+.column{
+    width:70%;
+    padding: 30px 150px;
+}
+
+.news-module1{
+    display: flex;
+    margin: 20px 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.left-column, .right-column{
+    max-width: 50%;
+    display: flex;
+}
+
+.left-image, .right-image{
+    padding: 30px 30px 30px 0px;
+}
+
+.left-text, right-text{
+    line-height: 1.2;
+}
+
+.news-module2{
+    text-align: center;
+    margin: 0px 10px;
+}
+
+.tab-module{
+    padding: 10px 120px;
+    
+}
+
+.tab {
+    overflow: hidden;
+    border-bottom: 3px solid #fec107;
+    }
+
+  .tab button {
+    background-color: inherit;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .tab button.active {
+    background-color:  #fec107;
+    font-size: 18px;
+  }
+  
+
+  .tabcontent, .tabcontent {
+    display: none;
+    
+    
+  }
+
+
