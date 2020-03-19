@@ -1,6 +1,6 @@
 ul {
     list-style: none;
-  
+    padding-inline-start: 0px;
 }
 .allmodule_item{
     padding: 10px 0px;

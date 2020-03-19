@@ -168,9 +168,9 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
 
-if( !defined(THEME_IMG_PATH)){
+/*if( !defined(THEME_IMG_PATH)){
 	define( 'THEME_IMG_PATH', get_stylesheet_directory_uri() . '/images' );
-   }
+   }*/
 
    if(function_exists('register_nav_menus')){
 	register_nav_menus(

@@ -28,7 +28,7 @@ get_header(); ?>
     <div class = "news-module1">
         <div class = "left-column">
             <div class = "left-image">
-                <img src="<?php echo THEME_IMG_PATH; ?>/ICO/128/chat.png" alt=""/>
+                <img src="<?php echo get_stylesheet_directory_uri();?>/images/ICO/128/chat.png" alt=""/>
             </div>
             <div class = "left-text">
                 <h2>Абітурієнт?</h2> 
@@ -39,7 +39,7 @@ get_header(); ?>
         </div>
         <div class = "right-column">
             <div class = "right-image">
-                <img src="<?php echo THEME_IMG_PATH; ?>/ICO/128/ico-school.png" alt=""/>
+                <img src="<?php echo get_stylesheet_directory_uri();?>/images/ICO/128/ico-school.png" alt=""/>
             </div>
             <div class = "right-text">
                 <h2>ІПСА відкриває двері!</h2> 
@@ -54,7 +54,7 @@ get_header(); ?>
         <a href="https://kpi.ua/node/17860"  class="allmode_link">
         День відкритих дверей КПІ ім. Ігоря Сікорського КПІAbitFest!</a>
         </h2>
-        <a href="https://docs.google.com/forms/d/1nEdGKjFxEWiKRr5NDF2_QIlUCsElVFMvkyrl1sOu81s/viewform?edit_requested=true"><img src="<?php echo THEME_IMG_PATH; ?>/stories/application.png"  alt="" style="max-width: 256px; width: 100%;"></a>
+        <a href="https://docs.google.com/forms/d/1nEdGKjFxEWiKRr5NDF2_QIlUCsElVFMvkyrl1sOu81s/viewform?edit_requested=true"><img src="<?php echo get_stylesheet_directory_uri();?>/images/stories/application.png"  alt="" style="max-width: 256px; width: 100%;"></a>
     </div>
 
     <div class = "tab-module">

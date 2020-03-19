@@ -37,7 +37,7 @@
 		</div>
 		<div class = "right-logo">
 			<div>
-			<img src="<?php echo THEME_IMG_PATH; ?>/stories/iasalogo.jpg" alt="IASA"></div>
+			<img src="<?php echo get_stylesheet_directory_uri();?>/images/stories/iasalogo.jpg" alt="IASA"></div>
 			<div><p>ННК "ІПСА" НТУУ "КПІ ім. І. Сікорського"</p></div>
 		</div>
 		</div>
