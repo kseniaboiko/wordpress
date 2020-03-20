@@ -41,9 +41,9 @@
 			<div><p>ННК "ІПСА" НТУУ "КПІ ім. І. Сікорського"</p></div>
 		</div>
 		</div>
-		<nav class = "nav">
+		<!--<nav class = "nav">
 		<?php wp_nav_menu("menu=main_menu"); ?>
-		</nav>
+		</nav>-->
 
 	</header><!-- #masthead -->
 
