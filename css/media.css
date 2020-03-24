@@ -64,11 +64,16 @@
     }
 
     .menu-main_menu-container{
-        display: block;
+        display: none;
     }
 
     .menu-main_menu-container.active{
         display:block;
+    }
+
+    .video video{
+        width: 85%;
+        height: 85%;
     }
 
  }
@@ -118,11 +123,16 @@
     }
 
     .menu-main_menu-container{
-        display: block;
+        display: none;
     }
 
     .menu-main_menu-container.active{
         display:block;
+    }
+
+    .video video{
+        width: 85%;
+        height: 85%;
     }
  }
 
