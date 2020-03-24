@@ -76,6 +76,18 @@
         height: 85%;
     }
 
+    .map iframe{
+        width: 85%;
+    }
+
+    .text-content{
+        padding: 30px 10px;
+    }
+    .text-content-inner{
+        padding: 0px 0px;
+        text-align: center;
+    }
+
  }
 
 @media (min-width: 521px) and (max-width: 782px) { 
@@ -133,6 +145,11 @@
     .video video{
         width: 85%;
         height: 85%;
+    }
+
+    .map iframe{
+        width: 85%;
+        
     }
  }
 
