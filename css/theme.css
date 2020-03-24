@@ -1,3 +1,14 @@
+body{
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+    padding: 0px;
+    margin: 0px;
+}
+
+p{
+    color:black;
+}
+
 ul {
     list-style: none;
     padding-inline-start: 0px;
@@ -23,3 +34,34 @@ a.allmode_link, .allmode_readmore a {
 footer, header{
     background: #fec107;
 }
+
+.banner{
+    background-image: url('http://localhost/wordpress/wp-content/themes/start-theme/images/banners/ob823n0.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: block;
+    background-position: center center;
+    }
+   
+   .text-banner{
+       background: rgba(254, 193, 7, 0.85);
+       margin: 20px 0px;
+       box-shadow: 0px 0px 3px #151515;
+       padding: 20px;
+       color: transparent;
+       clear: both;
+       font-size: 1.1em;
+       display: block;
+       font-family: Open Sans, sans-serif;
+   }
+   
+   .text-banner p{
+       line-height: 26px;
+   }
+   
+   .column{
+       width:70%;
+       padding: 30px 150px;
+   }
+
+   

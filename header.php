@@ -9,14 +9,17 @@
  * @package start_theme
  */
 
+
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?>>
+
 <head>
+
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >
 	<?php wp_head(); ?>
 </head>
 
@@ -41,10 +44,15 @@
 			<div><p>ННК "ІПСА" НТУУ "КПІ ім. І. Сікорського"</p></div>
 		</div>
 		</div>
-		<!--<nav class = "nav">
+		<nav class = "nav" id = "nav">
+			<div class = "toggle">
+				<i id = "togle" class="fa fa-bars fa-2x toggle" aria-hidden="true" onclick="myFunction()" style="color:#ffffff;"></i>
+			</div>
 		<?php wp_nav_menu("menu=main_menu"); ?>
-		</nav>-->
-
+		
+		</nav>
+	
+		
 	</header><!-- #masthead -->
 
 	
