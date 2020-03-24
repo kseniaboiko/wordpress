@@ -64,7 +64,7 @@
     }
 
     .menu-main_menu-container{
-        display: none;
+        display: block;
     }
 
     .menu-main_menu-container.active{
@@ -118,7 +118,7 @@
     }
 
     .menu-main_menu-container{
-        display: none;
+        display: block;
     }
 
     .menu-main_menu-container.active{

@@ -138,7 +138,7 @@ function start_theme_scripts() {
 	wp_enqueue_script( 'start-theme-homepage', get_template_directory_uri() . '/js/homepage.js');
 	wp_enqueue_script( 'start-theme-menu-media', get_template_directory_uri() . '/js/media-menu.js');
 	wp_enqueue_script( 'start-theme-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
-
+	wp_enqueue_script( 'start-theme-video', get_template_directory_uri() . '/js/swfobject.js');
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
 	}
