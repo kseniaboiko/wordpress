@@ -128,7 +128,7 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-contacts', get_template_directory_uri().'/css/contacts.css' );
 	wp_enqueue_style( 'start-theme-laboratorija-melexis', get_template_directory_uri().'/css/laboratorija-melexis.css' );
 	wp_enqueue_style( 'start-theme-international-scientific-cooperation', get_template_directory_uri().'/css/international-scientific-cooperation.css' );
-	
+	wp_enqueue_style( 'start-theme-osvitni-programy', get_template_directory_uri().'/css/osvitni-programy.css' );
 	
 	
 	
