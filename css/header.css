@@ -87,10 +87,3 @@ ul li ul li {
     text-align: left;
 }
 
-.toggle{
-    text-align: right;
-    width: 100%;
-    padding: 5px 20px;
-    display: block;
-    background: #000;
-}
