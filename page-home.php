@@ -74,7 +74,7 @@ get_header(); ?>
             <div class = "allmodule_item">
                 <div class="allmode_title"><a class="allmode_link" href="/uk/novini/22-news/500-spiski-zarahovanih-z-01-veresnja-2019-do-magistraturi">Списки зарахованих з 01 вересня 2019 до магістратури</a></div>
                 <div class="allmode_date">11.08.2019 12:49</div>
-		        <div class="allmode_text"><?php the_field('custom'); ?></div>
+		        <div class="allmode_text"><?php the_field('newsForMasterDegree'); ?></div>
 		        <div class="allmode_readmore"><a href="/uk/novini/22-news/500-spiski-zarahovanih-z-01-veresnja-2019-do-magistraturi">Детальніше</a></div>
             </div>
         </div>

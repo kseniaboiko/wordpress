@@ -20,7 +20,7 @@
     .news-module1{
         display: block;
     }
-    
+
     .left-column{
         max-width: 100%;
     }
@@ -79,7 +79,7 @@
 }
 
 @media (min-width: 521px) and (max-width: 782px) { 
-    .logo{
+   .logo{
         display: none;
     }
 

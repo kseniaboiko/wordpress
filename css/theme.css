@@ -7,6 +7,7 @@ body{
 
 p{
     color:black;
+    text-align: justify;
 }
 
 ul {
@@ -105,3 +106,23 @@ table a {
     border-bottom: 2px dotted #FF9800;
     font-weight: bold;
 }
+
+.text-banner a {
+    color: #000000;
+    border-bottom: 2px dotted #43403a;
+    font-weight: bold;
+    }
+
+.bannerScience{
+    background-image: url('http://localhost/wordpress/wp-content/themes/start-theme/images/banners/b_stud.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: block;
+    background-position: center center;
+    }
+
+.text-page {
+    padding: 2% 13%;
+    }
+
+    
