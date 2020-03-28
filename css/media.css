@@ -76,6 +76,10 @@
         padding: 10px 5px;
         font-size: 12px;
     }
+
+    .row{
+        display: block;
+    }
 }
 
 @media (min-width: 521px) and (max-width: 782px) { 
@@ -126,6 +130,10 @@
     .tables{
         padding: 10px 15px;
     }
+
+    .row{
+        display: block;
+    }
  }
 
 /* Small devices (tablets) */
@@ -133,6 +141,11 @@
    .column{
         width:100%;
         padding: 10px 20px;
+    }
+
+    .starosti img{
+        width: 60%;
+        height: 60%;
     }
 }
 
