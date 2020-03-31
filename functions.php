@@ -130,8 +130,10 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-international-scientific-cooperation', get_template_directory_uri().'/css/international-scientific-cooperation.css' );
 	wp_enqueue_style( 'start-theme-osvitni-programy', get_template_directory_uri().'/css/osvitni-programy.css' );
 	wp_enqueue_style( 'start-theme-osvitni-starosti', get_template_directory_uri().'/css/starosti.css' );
-	wp_enqueue_style( 'start-theme-scientific-school', get_template_directory_uri().'/css/scientificschool.css' );
-	
+	wp_enqueue_style( 'start-theme-scientific-school', get_template_directory_uri().'/css/scientific-school.css' );
+	wp_enqueue_style( 'start-theme-academic-council', get_template_directory_uri().'/css/academic-council.css' );
+	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/scientific-directions.css' );
+	wp_enqueue_style( 'start-theme-polozhennja-pro-imenni-stipendii', get_template_directory_uri().'/css/polozhennja-pro-imenni-stipendii.css' );
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
 	
