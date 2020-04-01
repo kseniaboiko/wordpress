@@ -136,6 +136,7 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-polozhennja-pro-imenni-stipendii', get_template_directory_uri().'/css/polozhennja-pro-imenni-stipendii.css' );
 	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/rozklad.css');
 	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/navchalnij-plan.css');
+	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/navchalna-dokumentacja.css');
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
 	
