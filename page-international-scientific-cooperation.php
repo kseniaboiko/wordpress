@@ -1,4 +1,4 @@
-<?php /* Template Name: International-scientific-cooperation */ 
+<?php /* Template Name: InternationalScientificCooperation */ 
 
 ?>
 

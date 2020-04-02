@@ -1,4 +1,4 @@
-<?php /* Template Name: Polozhenja pro imenni stipendii */ 
+<?php /* Template Name: PolozhenjaProImenniStipendii */ 
 
 ?>
 

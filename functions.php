@@ -134,9 +134,13 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-academic-council', get_template_directory_uri().'/css/academic-council.css' );
 	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/scientific-directions.css' );
 	wp_enqueue_style( 'start-theme-polozhennja-pro-imenni-stipendii', get_template_directory_uri().'/css/polozhennja-pro-imenni-stipendii.css' );
-	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/rozklad.css');
-	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/navchalnij-plan.css');
-	wp_enqueue_style( 'start-theme-scientific-directions', get_template_directory_uri().'/css/navchalna-dokumentacja.css');
+	wp_enqueue_style( 'start-theme-rozklad', get_template_directory_uri().'/css/rozklad.css');
+	wp_enqueue_style( 'start-theme-navchalnij-plan', get_template_directory_uri().'/css/navchalnij-plan.css');
+	wp_enqueue_style( 'start-theme-navchalna-dokumentacja', get_template_directory_uri().'/css/navchalna-dokumentacja.css');
+	wp_enqueue_style( 'start-theme-diploms', get_template_directory_uri().'/css/diploms.css');
+	wp_enqueue_style( 'start-theme-projects', get_template_directory_uri().'/css/projects.css');
+	wp_enqueue_style( 'start-theme-achievements', get_template_directory_uri().'/css/achievements.css');
+	wp_enqueue_style( 'start-theme-list-of-diplomas', get_template_directory_uri().'/css/list-of-diplomas.css');
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
 	

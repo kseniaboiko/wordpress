@@ -1,4 +1,4 @@
-<?php /* Template Name: Scientific Directions */ 
+<?php /* Template Name: ScientificDirections */ 
 
 ?>
 

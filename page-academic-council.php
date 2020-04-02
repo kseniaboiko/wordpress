@@ -1,4 +1,4 @@
-<?php /* Template Name: Academic Council */ 
+<?php /* Template Name: AcademicCouncil */ 
 
 ?>
 
