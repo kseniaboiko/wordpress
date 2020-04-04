@@ -1,4 +1,4 @@
-<?php /* Template Name: Bachelor-2017 */ 
+<?php /* Template Name: Bachelor-2015 */ 
 
 ?>
 
@@ -28,26 +28,11 @@ get_header(); ?>
         </div>
     </div>
     <div class = "text-page">
-        <h1>2017 рік</h1>
+        <h1>2015 рік</h1>
         <p>Бакалаври</p>
         <br>
 
-        <div class = "photos">
-            <div class="center">
-                <div class="img-center "><img src="http://cad.kpi.ua/images/stories/160617.jpg"><caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 16.06.2017</caption></div>
-                <div class="img-center "><img src="http://cad.kpi.ua/images/stories/160617_.jpg"><caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 16.06.2017</caption></div>
-            </div>
-            <div class="center">
-                <div class="img-center "><img src="http://cad.kpi.ua/images/stories/210617_.jpg"><caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 19.06.2017</caption></div>
-            </div>
-            <div class="center">
-                <div class="img-center "><img src="http://cad.kpi.ua/images/stories/photo_2017-06-20_12-52-03.jpg"><caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 20.06.2017</caption></div>
-                <div class="img-center "><img src="http://cad.kpi.ua/images/stories/200617.jpg"><caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 20.06.2017</caption></div>
-            </div>
-        </div>
-
         <div id = "First" class = "year" style="display:block;">
-       
         <table>
                 <thead>
                     <tr>
@@ -180,7 +165,6 @@ get_header(); ?>
                     </tr>
                 </tbody>
         </table>
-        
         </div>
 
         <div id = "Second" class = "year">
