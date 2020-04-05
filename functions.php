@@ -122,7 +122,7 @@ add_action( 'widgets_init', 'start_theme_widgets_init' );
 function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-style', get_stylesheet_uri() );
 
-	
+	wp_enqueue_style( 'start-theme-style-my', get_template_directory_uri().'/css/theme.css' );
 	
 	wp_enqueue_style( 'start-theme-homepage', get_template_directory_uri().'/css/homepage.css' );
 	wp_enqueue_style( 'start-theme-contacts', get_template_directory_uri().'/css/contacts.css' );
@@ -143,10 +143,11 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-list-of-diplomas', get_template_directory_uri().'/css/list-of-diplomas.css');
 	wp_enqueue_style( 'start-theme-official-information', get_template_directory_uri().'/css/official-information.css');
 	wp_enqueue_style( 'start-theme-istorja-kafedri', get_template_directory_uri().'/css/istorja-kafedri.css');
+	wp_enqueue_style( 'start-theme-personal', get_template_directory_uri().'/css/personal.css');
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
 	
-	wp_enqueue_style( 'start-theme-style-my', get_template_directory_uri().'/css/theme.css' );
+	
 	wp_enqueue_style( 'start-theme-style-media', get_template_directory_uri().'/css/media.css' );
 	wp_enqueue_script( 'start-theme-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
 	wp_enqueue_script( 'start-theme-homepage', get_template_directory_uri() . '/js/homepage.js');
