@@ -142,6 +142,7 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-achievements', get_template_directory_uri().'/css/achievements.css');
 	wp_enqueue_style( 'start-theme-list-of-diplomas', get_template_directory_uri().'/css/list-of-diplomas.css');
 	wp_enqueue_style( 'start-theme-official-information', get_template_directory_uri().'/css/official-information.css');
+	wp_enqueue_style( 'start-theme-istorja-kafedri', get_template_directory_uri().'/css/istorja-kafedri.css');
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
 	

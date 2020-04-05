@@ -10,9 +10,20 @@ p{
     text-align: justify;
 }
 
-ul {
+ul, ol{
+    line-height: 30px;
+}
+.text-page ul{
+    list-style: square;
+}
+
+nav ul{
     list-style: none;
     padding-inline-start: 0px;
+}
+
+ul ol{
+    padding-inline-start: 15px;
 }
 
 a{
@@ -105,6 +116,11 @@ a.at_url:link {
     text-decoration: none;
 }
 
+.tables{
+    overflow-x: auto;
+}
+
+
 table a {
     font-size: 1.1em;
     color: #43403a;
@@ -146,6 +162,10 @@ table a {
 
 .img-center img {
     width: 100%;
+}
+
+.text-page ul{
+    list-style: square;
 }
     
     
