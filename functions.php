@@ -144,6 +144,7 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-official-information', get_template_directory_uri().'/css/official-information.css');
 	wp_enqueue_style( 'start-theme-istorja-kafedri', get_template_directory_uri().'/css/istorja-kafedri.css');
 	wp_enqueue_style( 'start-theme-personal', get_template_directory_uri().'/css/personal.css');
+	wp_enqueue_style( 'start-theme-pracevlashtuvannja', get_template_directory_uri().'/css/pracevlashtuvannja.css');
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
 	
@@ -152,6 +153,7 @@ function start_theme_scripts() {
 	wp_enqueue_script( 'start-theme-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
 	wp_enqueue_script( 'start-theme-homepage', get_template_directory_uri() . '/js/homepage.js');
 	wp_enqueue_script( 'start-theme-diploma', get_template_directory_uri() . '/js/list-of-diplomas.js');
+	wp_enqueue_script( 'start-theme-expandable-block', get_template_directory_uri() . '/js/expandable-block.js');
 	wp_enqueue_script( 'start-theme-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
 	
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
