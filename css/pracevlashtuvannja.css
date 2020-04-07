@@ -1,8 +1,8 @@
-.content-it-profession {
-   
+.content-it-profession{
     display: none;
-    overflow: hidden;
-   
+  }
+  .content-it-profession.open{
+    display: block;
   }
 
   .collapsible{
