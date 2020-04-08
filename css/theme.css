@@ -42,7 +42,7 @@ a{
 
 a.allmode_link, .allmode_readmore a {
     font-size: 1.1em;
-    text-transform: uppercase;
+    
     color: #43403a;
     border-bottom: 2px dotted #FF9800;
     font-weight: bold;

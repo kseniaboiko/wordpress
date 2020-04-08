@@ -146,6 +146,7 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-personal', get_template_directory_uri().'/css/personal.css');
 	wp_enqueue_style( 'start-theme-pracevlashtuvannja', get_template_directory_uri().'/css/pracevlashtuvannja.css');
 	wp_enqueue_style( 'start-theme-chomu-sp', get_template_directory_uri().'/css/chomu-sp.css');
+	wp_enqueue_style( 'start-theme-phd', get_template_directory_uri().'/css/phd.css');
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
 	
