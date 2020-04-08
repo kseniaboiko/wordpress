@@ -58,30 +58,30 @@ footer, header{
     background-size:cover;
     display: block;
     background-position: center center;
-    }
+}
    
-   .text-banner{
-       background: rgba(254, 193, 7, 0.85);
-       margin: 20px 0px;
-       box-shadow: 0px 0px 3px #151515;
-       padding: 20px;
-       color: transparent;
-       clear: both;
-       font-size: 1.1em;
-       display: block;
-       font-family: Open Sans, sans-serif;
-   }
+.text-banner{
+    background: rgba(254, 193, 7, 0.85);
+    margin: 20px 0px;
+    box-shadow: 0px 0px 3px #151515;
+    padding: 20px;
+    color: transparent;
+    clear: both;
+    font-size: 1.1em;
+    display: block;
+    font-family: Open Sans, sans-serif;
+}
    
-   .text-banner p{
+.text-banner p{
        line-height: 26px;
-   }
+}
    
-   .column{
+.column{
        width:70%;
        padding: 30px 150px;
-   }
+}
 
-   .tables{
+.tables{
     text-align: center;
     padding: 20px 40px;
 }
@@ -91,12 +91,12 @@ table {
     border-spacing: 0;
     width: 100%;
     border: 1px solid #ddd;
-  }
+}
   
   th, td {
     text-align: left;
     padding: 8px;
-  }
+}
 
   tr:nth-child(even){background-color: #f2f2f2}
 
@@ -120,19 +120,17 @@ a.at_url:link {
     overflow-x: auto;
 }
 
-
 table a {
     font-size: 1.1em;
     color: #43403a;
     border-bottom: 2px dotted #FF9800;
-    
 }
 
 .text-banner a {
     color: #000000;
     border-bottom: 2px dotted #43403a;
     font-weight: bold;
-    }
+}
 
 .bannerScience{
     background-image: url('http://localhost/wordpress/wp-content/themes/start-theme/images/banners/b_stud.jpg');
@@ -140,7 +138,7 @@ table a {
     background-size:cover;
     display: block;
     background-position: center center;
-    }
+}
 
 .text-page {
     padding: 2% 13%;
@@ -168,4 +166,27 @@ table a {
     list-style: square;
 }
     
+.bannerAbityra{
+    background-image: url('http://localhost/wordpress/wp-content/themes/start-theme/images/banners/bkpi.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: block;
+    background-position: center center;
+}
 
+.collapsible{
+    background-color: inherit;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #43403a;
+    border-bottom: 2px dotted #FF9800;
+  }
+
+  .content-expandable{
+    display: none;
+  }
+  .content-expandable.open{
+    display: block;
+  }
