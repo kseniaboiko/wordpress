@@ -40,13 +40,6 @@ a{
     font-family: sans-serif;
 }
 
-a.allmode_link, .allmode_readmore a {
-    font-size: 1.1em;
-    
-    color: #43403a;
-    border-bottom: 2px dotted #FF9800;
-    font-weight: bold;
-}
 
 footer, header{
     background: #fec107;
@@ -190,3 +183,72 @@ table a {
   .content-expandable.open{
     display: block;
   }
+
+  .right-column{
+      padding-left: 30px;
+  }
+  .news-module1{
+    display: flex;
+    margin: 20px 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+
+.news-module1 a {
+    color: #006699;
+    text-decoration: none;
+}
+
+
+.left-column, .right-column{
+    max-width: 50%;
+    display: flex;
+}
+
+.left-image, .right-image{
+    padding: 30px 30px 30px 0px;
+}
+
+.left-text, .right-text{
+    line-height: 1.2;
+}
+
+.flex-module{
+    display: flex;
+    
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+
+.left-flex{
+    max-width: 55%;
+}
+
+.right-flex{
+    max-width: 40%;
+}
+
+.news-module-bakalavr{
+    display: flex;
+    margin: 20px 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+
+.news-module-bakalavr a {
+    color: #006699;
+    text-decoration: none;
+}
+
+.flex-module .collapsible{
+    font-size: 14px;
+}
+a.allmode_link, .allmode_readmore a {
+    font-size: 1.1em;
+    
+    color: #43403a;
+    border-bottom: 2px dotted #FF9800;
+    font-weight: bold;
+}

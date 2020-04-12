@@ -17,8 +17,26 @@
         padding: 10px 20px;
     }
 
+    .news-module-bakalavr{
+        display: none;
+    }
+
     .news-module1{
         display: block;
+    }
+    .flex-module{
+        display: block;
+    }
+    .left-flex{
+        max-width: 100%;
+    }
+    
+    .right-flex{
+        max-width: 100%;
+    }
+
+    .right-column{
+        padding-left: 0px;
     }
 
     .left-column{
@@ -96,6 +114,7 @@
     .img-center{
         width: 100%;
     }
+    
 }
 
 @media (min-width: 521px) and (max-width: 782px) { 
@@ -113,7 +132,20 @@
     .news-module1{
         display: block;
     }
+    .flex-module{
+        display: block;
+    }
+    .left-flex{
+        max-width: 100%;
+    }
+    
+    .right-flex{
+        max-width: 100%;
+    }
 
+    .right-column{
+      padding-left: 0px;
+    }
     .left-column{
         max-width: 100%;
     }

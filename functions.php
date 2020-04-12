@@ -147,6 +147,9 @@ function start_theme_scripts() {
 	wp_enqueue_style( 'start-theme-pracevlashtuvannja', get_template_directory_uri().'/css/pracevlashtuvannja.css');
 	wp_enqueue_style( 'start-theme-chomu-sp', get_template_directory_uri().'/css/chomu-sp.css');
 	wp_enqueue_style( 'start-theme-phd', get_template_directory_uri().'/css/phd.css');
+	wp_enqueue_style( 'start-theme-bakalavr', get_template_directory_uri().'/css/bakalavr.css');
+	wp_enqueue_style( 'start-theme-magistr', get_template_directory_uri().'/css/magistr.css');
+	wp_enqueue_style( 'start-theme-vidguki', get_template_directory_uri().'/css/vidguki.css');
 	wp_enqueue_style( 'start-theme-zaochna-forma-navchannja', get_template_directory_uri().'/css/zaochna-forma-navchannja.css');
 	wp_enqueue_style( 'start-theme-footer', get_template_directory_uri().'/css/footer.css' );
 	wp_enqueue_style( 'start-theme-header', get_template_directory_uri().'/css/header.css' );
