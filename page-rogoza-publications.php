@@ -33,7 +33,7 @@ get_header(); ?>
             <h1>Публікації: Рогоза Валерій Станіславович</h1>
             <br>
 
-            <ol>
+            <ol class = "linksPub">
                 <li>V.Rogoza, A.Sergeev. The comparison of the stochastic algorithms for the filter parameters calculation. – In: “Advances in Intelligent Systems and Computing, Springer, 2014, P.241-250.</li>
                 <li>Walery Rogoza, Michał Zabłocki. Grid computing and cloud computing in scope of JADE and OWL based semantic agents. – A servey. – &nbsp;“Przegląd Elektrotechniczny”, #2, 2014, P. 93 – 96, doi: 10.12915/pe.2014.02.03, &nbsp;ISSN 0033-2097, R.90, NR2/2014.</li>
                 <li>Walery Rogoza, Joanna Bobkowska. The object behavior analysis, control, and prognosis in the state space. &nbsp;– &nbsp;“Przegląd Elektrotechniczny”, #3, 2014, P. 124 – 127, doi: 10.12915/pe.2014.03.26.</li>

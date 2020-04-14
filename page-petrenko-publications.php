@@ -33,7 +33,7 @@ get_header(); ?>
             <h1>Публікації: Петренко Анатолій Іванович</h1>
             <br>
 
-            <ol>
+            <ol class = "linksPub">
                 <li><a href="/attachments/043_2017_01_p.pdf" mce_href="/attachments/043_2017_01_p.pdf" target="_blank">Petrenko A.I. Services and a Distributed Ecosystem for Supporting Mobile Medical Application Development // J Telecommun Syst Manage 5: 140, 2016. doi: 10.4172/2167-0919.1000140</a><br mce_bogus="1"></li>
                 <li><a href="/attachments/043_2017_02_p.pdf" mce_href="/attachments/043_2017_02_p.pdf" target="_blank">O.O. Petrenko. A loosely-integrated suite of services for mhealth formed by wireless sensor networks / O.O. Petrenko, A.I. Petrenko -// Data Stream Mining &amp; Processing. Proc. of the 1 th IEEE International Conference on Data Stream Mining &amp; Processing, 23-27 August 2016, Lviv, Ukraine, pp.3-8.</a><br mce_bogus="1"></li>
                 <li><a href="/attachments/043_2017_03_p.pdf" mce_href="/attachments/043_2017_03_p.pdf" target="_blank">Petrenko A.I. Personal healthcare platform for chronic diseases with mobile self-management support / Petrenko A.I. Roenko N.V.- // The 4-th International Virtual Conference on Advanced Scientific Results, Slovakia, 6-10 June, 2016, www.scieconf.com</a><br mce_bogus="1"></li>

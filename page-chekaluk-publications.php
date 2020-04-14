@@ -33,7 +33,7 @@ get_header(); ?>
             <h1>Публікації: Чекалюк Віталій Вікторович</h1>
             <br>
 
-            <ol>
+            <ol class = "linksPub">
                 <li><a href="#" mce_href="#">Ladogubets V. Employing Engines for Engineering Calculations / Volodymyr Ladogubets, Bogdan Bulakh, Vitalii Chekaliuk, Oleksandr Kramar // The Experience of Designing and Application of CAD Systems in Microelectronics : 12-th Intern. Conf. «CADSM’2013», 19-23 February 2013, Polyana-Svalyava (Zakarpattya), Ukraine : proc. – Lviv, 2013. – P. 427–430. – ISBN 978-617-607-393-2.</a></li>
                 <li><a href="#" mce_href="#">Kiselev G. Workflow Task Description Format for GridALLTED Complex / Gennadiy Kiselev, Bogdan Bulakh, Oleksandr Beznosyk, Vitalii Chekaliuk // The Experience of Designing and Application of CAD Systems in Microelectronics : 12-th Intern. Conf. «CADSM’2013», 19-23 February 2013, Polyana-Svalyava (Zakarpattya), Ukraine : proc. – Lviv, 2013. – P. 425–426. – ISBN 978-617-607-393-2.</a></li>
                 <li><a href="http://cad.kpi.ua/attachments/043_2012_050.pdf" mce_href="/attachments/043_2012_050.pdf">Булах Б.В. Модификация способа учета баланса загрузки при выполнении параллельных программ на вычислительном кластере / Булах Б.В., Чекалюк В.В., Ладогубец В.В., Финогенов А.Д. // Інформатика, управління та обчислювальна техніка : вісник НТУУ «КПІ». – 2012. – Вип. 57. – С. 56–59.</a></li>

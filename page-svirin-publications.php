@@ -33,7 +33,7 @@ get_header(); ?>
             <h1>Публікації: Свірін Павло Володимирович</h1>
             <br>
 
-            <ol>
+            <ol class = "linksPub">
                 <li>Петренко А.И. Новые подходы для брокера ресурсов Nordugrid ARC / Петренко А.И., Свистунов С.Я., Свирин П.В. // СВЧ-техника и телекоммуникационные технологии : 23-я Международная Крымская конференция «КрыМиКо’2013», 9-13 сент. 2013, Севастополь, Крым, Украина : материалы. – Севастополь, 2013. – С. 352–353.</li>
                 <li>Petrenko A. Distributed Grid Brokers Architecture Using Web-Services / Petrenko A., Svistunov S., Svirin P. // Cluster Computing :&nbsp;Second International Conference&nbsp; «CC’2013», 3-5 June 2013, &nbsp;Lviv, Ukraine : proc. – Lviv, 2013. – P. 175–178.</li>
                 <li><a target="_blank" href="http://cad.kpi.ua/attachments/043_2013_020.pdf" mce_href="/attachments/043_2013_020.pdf">Петренко А.І. Брокер ресурсів для Nordugrid ARC із використанням прогнозування часу початку виконання. / Петренко А.І., Свистунов С.Я., Свірін П.В. // Моделювання та інформаційні технології : зб. наук. пр. – 2013. – Вип. 68. – С.&nbsp;170–176.</a></li>

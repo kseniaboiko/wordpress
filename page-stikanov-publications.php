@@ -33,7 +33,7 @@ get_header(); ?>
             <h1>Публікації: Стіканов Валерій Юхимович</h1>
             <br>
 
-            <ol>
+            <ol class = "linksPub">
                 <li><a target="_blank" href="http://cad.kpi.ua/attachments/043_2007_021.pdf" mce_href="/attachments/043_2007_021.pdf">Stikanov V. Some Aspects of the Negative Charge Pumps / Stikanov V., Korolevich R., Schoof G. // Electronics and Nanotechnology : 32-th International Scientific Conference «ELNANO’2012», 10-12 April 2012, Kiev, Ukraine : proc. – Kiev, 2012. – P. &nbsp;104.</a></li>
                 <li><a target="_blank" href="http://cad.kpi.ua/attachments/043_2010_035.pdf" mce_href="/attachments/043_2010_035.pdf">Stikanov V. Configurable Sector Size Flash Memory Organization / Stikanov V., Korolevich R., Schoof G. // Electronics and Nanotechnology : 32-th International Scientific Conference «ELNANO’2012», 10-12 April 2012, Kiev, Ukraine : proc. – Kiev, 2012. – P. &nbsp;102–103.</a></li>
                 <li><a target="_blank" href="http://cad.kpi.ua/attachments/043_2010_035.pdf">Stikanov V. Yu. Review of device matching improvement methods of integrated circuits / Stikanov V. Yu., Guryn D.V. // Системний аналіз та інформаційні технології : 12-а міжнародна науково-технічна конференція «САІТ-2010», 25-29 травня 2010, Київ, Україна : матеріали. – К. : ННК "ІПСА" НТУУ "КПІ", 2010. – С. 353.</a><span><a href="http://cad.kpi.ua/attachments/043_2010_035ppt.pdf" mce_href="/attachments/043_2010_035ppt.pdf">&nbsp; Тези</a></span></li>
