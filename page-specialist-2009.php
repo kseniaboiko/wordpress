@@ -1,4 +1,4 @@
-<?php /* Template Name: Bachelor-2017 */
+<?php /* Template Name: Specialist-2009 */
 
 ?>
 
@@ -30,37 +30,12 @@ get_header(); ?>
             </div>
         </div>
         <div class="text-page">
-            <h1>2017 рік</h1>
-            <p>Бакалаври</p>
+            <h1>2009 рік</h1>
+            <p>Спеціалисти</p>
             <br>
-
-            <div class="photos">
-                <div class="center">
-                    <div class="img-center "><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stories/160617.jpg">
-                        <caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 16.06.2017</caption>
-                    </div>
-                    <div class="img-center "><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stories/160617_.jpg">
-                        <caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 16.06.2017</caption>
-                    </div>
-                </div>
-                <div class="center">
-                    <div class="img-center "><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stories/210617_.jpg">
-                        <caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 19.06.2017</caption>
-                    </div>
-                </div>
-                <div class="center">
-                    <div class="img-center "><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stories/photo_2017-06-20_12-52-03.jpg">
-                        <caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 20.06.2017</caption>
-                    </div>
-                    <div class="img-center "><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stories/200617.jpg">
-                        <caption>Вітаємо бакалаврів 2017 з успішним захистом!<br> 20.06.2017</caption>
-                    </div>
-                </div>
-            </div>
 
             <div class="tables">
                 <div id="First" class="year" style="display:block;">
-
                     <table>
                         <thead>
                             <tr>
@@ -185,7 +160,7 @@ get_header(); ?>
                             </tr>
 
                             <tr>
-                                <td>chech 3 </td>
+                                <td>Кадін Євгеній Петрович </td>
                                 <td>Несанкціонований доступ до Веб-сайтів та засоби попередження </td>
                                 <td>Доц. Цурін О. П. </td>
                                 <td class></td>
@@ -193,7 +168,6 @@ get_header(); ?>
                             </tr>
                         </tbody>
                     </table>
-
                 </div>
 
                 <div id="Second" class="year">
@@ -321,7 +295,7 @@ get_header(); ?>
                             </tr>
 
                             <tr>
-                                <td>chech 3 </td>
+                                <td>Check </td>
                                 <td>Несанкціонований доступ до Веб-сайтів та засоби попередження </td>
                                 <td>Доц. Цурін О. П. </td>
                                 <td class></td>
@@ -465,7 +439,9 @@ get_header(); ?>
                         </tbody>
                     </table>
                 </div>
+
             </div>
+
 
             <div class="pages">
                 <button class="pageslinks active" onclick="openPage(event, 'First')">1</button>
